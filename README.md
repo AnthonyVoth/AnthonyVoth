@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnthonyVoth?tab=repositories](https://github.com/AnthonyVoth?tab=repositories)
 
-- 💬 Ask me about **Java, SQL, and Visual Basic for Applications**
+- 💬 Ask me about **Java, SQL, Python, and Visual Basic for Applications**
 
 - 📫 How to reach me **anthonyvoth@gmail.com**
 
